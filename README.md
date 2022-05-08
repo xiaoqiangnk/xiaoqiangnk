@@ -1,4 +1,6 @@
-### Hi there 👋
+👋 Hi, I’m Yongqiang Yang, my another github account is @dataroaring.
+👀 I worked on distributed storage system, linux kernel especially ext4.
+🌱 I’m currently learning and working on olap databases.
 
 <!--
 **xiaoqiangnk/xiaoqiangnk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
