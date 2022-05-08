@@ -4,6 +4,8 @@
 
 🌱 I’m currently learning and working on olap databases.
 
+📫 https://github.com/xiaoqiangnk. https://github.com/dataroaring.
+
 <!--
 **xiaoqiangnk/xiaoqiangnk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
